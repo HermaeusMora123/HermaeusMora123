@@ -1,5 +1,5 @@
 # 💫 About Me:
-###I'm Hermaeus Mora.<br>  Software Engineer Student at the [UNIFIL](https://unifil.br/) university and a mechatronics tecnician.</br><br>  Worked both in industrial maintenance and now i'm in computer maintenance and software development.</br><br>  I enjoy CyberSecurity, therefore you could find me in [TryHackMe](https://tryhackme.com/p/HermaeusMora)</br><br>  Learning Game development, Unity to be more precise.</br><br><br>
+###I'm Pedro Ivo.<br>  Software Engineer Student at the [UNIFIL](https://unifil.br/) university and a mechatronics tecnician.</br><br>  Worked both in industrial maintenance and now i'm in computer maintenance and software development.</br><br> Learning Game development, Unity to be more precise.</br><br><br>
 
 
 ## 🌐 Socials:
